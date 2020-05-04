@@ -4,6 +4,8 @@ body {
     font-family:san-seriff;
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_oqEB6NhjnxGroNkGK6CpMQ_YFfSDDecKWDOaTBG1ef1B2kpo&usqp=CAU);
     background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover
 }
 div {
     width:250px;
